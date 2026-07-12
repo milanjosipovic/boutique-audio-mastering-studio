@@ -6,6 +6,8 @@ anywhere in the project — every interactive behavior (the mobile navigation,
 hover and focus states, and scroll-linked motion) is implemented with native
 HTML and CSS.
 
+[Live site](http://milanjosipovic.github.io/boutique-audio-mastering-studio)
+
 ## Live structure
 
 ```
